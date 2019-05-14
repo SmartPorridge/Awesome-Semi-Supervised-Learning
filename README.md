@@ -2,7 +2,7 @@
 
 ## Guide:
 
->* 1.Papers
+>* 1.Papers[]
 
 >* 2.Paper Reading Notes
 
@@ -22,3 +22,23 @@
   
 
 ## 2.Paper Reading Notes
+ 
+### Temporal ensembling for semi-supervised learning
+to do
+
+### Mean teacher: Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.
+to do
+
+### VAT: Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning. 
+to do
+
+###  fast SWA: There Are Many Consistent Explanations of Unlabeled Data: Why You Should Average.
+to do
+
+### ICT by Bengio: Interpolation Consistency Training for Semi-Supervised Learning.
+to do
+
+### MixMatch by Ian Goodfellow: Interpolation Consistency Training for Semi-Supervised Learning. 
+to do
+
+
